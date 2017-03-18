@@ -1,1 +1,0 @@
-# Download-a-Support-Bundle-from-an-NSX-Manager-Using-the-REST-API-Internface
